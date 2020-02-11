@@ -6,16 +6,16 @@ var univ_list = {
         url: "https://jwc.scnu.edu.cn/"
     }, {
         name: "教学信息系统",
-        url: "https://jwxt.scnu.edu.cn/xtgl/index_initMenu.html?jsdm=&_t=1576449472769"
+        url: "https://jwxt.scnu.edu.cn/"
     }, {
         name: "图书馆",
         url: "http://lib.scnu.edu.cn/"
     }, {
         name: "十校公选",
-        url: "https://unitown.scnu.edu.cn/default.aspx"
+        url: "https://unitown.scnu.edu.cn/"
     }, {
         name: "非正式课程",
-        url: "https://fzskc.scnu.edu.cn/opt_jx_wdkc.aspx?key=br1YVLauA11WShKV&fid=156"
+        url: "https://fzskc.scnu.edu.cn/"
     }, {
         name: "砺儒云课堂",
         url: "http://moodle.scnu.edu.cn/"
